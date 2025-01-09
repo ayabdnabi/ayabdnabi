@@ -39,7 +39,7 @@
   <tr>
     <td>CS 2211</td>
     <td>Introduces software tools and systems-level programming, covering program execution, UNIX, scripting languages, C programming, and optionally topics like system calls, memory management, version control, and debugging.</td>
-    <td>TBA</td>
+    <td>93</td>
   </tr>
   <tr>
     <td>CS 2212</td>
