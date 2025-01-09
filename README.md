@@ -43,11 +43,11 @@
   </tr>
   <tr>
     <td>CS 2212</td>
-    <td></td>
+    <td>TBA</td>
     <td>TBA</td>
   </tr>
   <tr>
     <td>CS 2208</td>
-    <td></td>
+    <td>TBA</td>
     <td>TBA</td>
   </tr>
