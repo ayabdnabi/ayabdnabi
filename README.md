@@ -32,6 +32,11 @@
     <td>85</td>
   </tr>
   <tr>
+    <td>CS 1033</td>
+    <td>Introductory multimedia course on web-based media design, covering text, images, sound, animation, and video. Combines theory with hands-on practice using editing tools for graphics, animation, and web development.</td>
+    <td>91</td>
+  </tr>
+  <tr>
     <td>CS 2210</td>
     <td>Foundation in data structures and algorithms, focusing on their design, analysis, correctness, and computational complexity, with implementations in Java and topics including time complexity, trees, hash tables, graphs, and sorting algorithms.</td>
     <td>97</td>
