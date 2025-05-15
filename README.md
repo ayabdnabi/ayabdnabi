@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>CS 2212</td>
-    <td>TBA</td>
-    <td>TBA</td>
+    <td>Introduces software engineering principles and practices, covering the full development lifecycle—requirements, design, implementation, and testing—through team projects and practical experience using Java.</td>
+    <td>93</td>
   </tr>
   <tr>
     <td>CS 2208</td>
-    <td>TBA</td>
-    <td>TBA</td>
+    <td>Introduces computer organization and architecture, covering data representation, arithmetic operations, hardware components, information flow, and assembly language to illustrate system-level concepts.</td>
+    <td>99</td>
   </tr>
